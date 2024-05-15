@@ -1,6 +1,6 @@
 import React from "react";
 import { Menu, Transition } from "@headlessui/react";
-import { Fragment, useEffect, useRef, useState } from "react";
+import { Fragment } from "react";
 import { Link } from "gatsby";
 
 export default function DropdownMenu() {
